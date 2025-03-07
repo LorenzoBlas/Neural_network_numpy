@@ -10,7 +10,7 @@ This project implements a simple neural network using NumPy for binary classific
 To clone the project, run the following command in your terminal:
 
 ```bash
-git clone https://github.com/TU_NOMBRE_DE_USUARIO/NOMBRE_DEL_REPOSITORIO.git
+git clone https://github.com/LorenzoBlas/Neural_network_numpy.git
 ```
 
 ## Install Dependencies
